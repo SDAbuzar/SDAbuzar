@@ -88,26 +88,6 @@ More projects coming soon...
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SDAbuzar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDAbuzar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SDAbuzar&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## 📫 Connect With Me
@@ -115,15 +95,8 @@ More projects coming soon...
 - 📧 Email: sayyadabuzarali03@gmail.com
 
 ---
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --- [![](https://komarev.com/ghpvc/?username=SDAbuzar&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-## 📊 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SDAbuzar&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 > **"Without data, you're just another person with an opinion." – W. Edwards Deming**
